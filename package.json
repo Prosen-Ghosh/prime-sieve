@@ -1,0 +1,29 @@
+{
+  "name": "prime-sieve",
+  "version": "1.0.0",
+  "description": "An implementation of the sieve of Eratosthenes to check prime numbers.",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/prime-sieve.git"
+  },
+  "keywords": [
+    "prime",
+    "sieve",
+    "number",
+    "math"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/prime-sieve/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/prime-sieve#readme",
+  "dependencies": {
+    "node-readme": "^0.1.9"
+  }
+}
